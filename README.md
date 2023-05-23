@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=alexis974.alexis974)
 
-👋 I'm a 23 years old French CS student at [EPITA](https://www.epita.fr/) in Paris, France.
+👋 I'm a French DevOps engineer in Paris working at [Neo9](https://neo9.fr).
 
 ---
 
